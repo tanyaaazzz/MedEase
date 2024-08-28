@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    border:border-box;
+}
+/*entire navbar*/
+.navbar{
+    height:100px;
+    background-color: #0C6170 ;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+.panel{
+    height: 30px;
+    background-color:#37BEB0 ;
+}
+.dashboard{
+    width:14vw;
+    height: 62vh;
+    background-color:#6AA4B0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+   
+    
+     
+}
+.option{
+    height: 55px;
+    width: 270px;
+    background-color:#DBF5F0;
+    border-radius:0px;
+    margin-top: 3px;
+    gap: 5px;
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.name{
+    background-color: rgb(244, 245, 236);
+    font-weight: 900;
+}
+.border{/*class given to my amazon logo */
+    border: 1.5px solid transparent;
+}
+.border:hover{
+    border: 2.5px solid black;
+}
+
