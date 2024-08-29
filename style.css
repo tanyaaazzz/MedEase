@@ -48,7 +48,7 @@
     background-color: rgb(244, 245, 236);
     font-weight: 900;
 }
-.border{/*class given to my amazon logo */
+.border{
     border: 1.5px solid transparent;
 }
 .border:hover{
